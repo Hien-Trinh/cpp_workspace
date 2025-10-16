@@ -47,3 +47,6 @@
 
 # vscode config
 .vscode/
+
+# .DS_Store
+.DS_Store
