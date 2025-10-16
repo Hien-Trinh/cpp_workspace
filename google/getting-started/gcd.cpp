@@ -38,8 +38,8 @@ int main() {
   // select recursion or iterative
   // initialize a ptr to a function with two int arguments that returns an int
   // to either gcd_recursion or gcd_iterative
-  // int (*gcd)(int, int) = gcd_recursion;
-  int (*gcd)(int, int) = gcd_iterative;
+  int (*gcd)(int, int) = gcd_recursion;
+  // int (*gcd)(int, int) = gcd_iterative;
 
   cout << "Greatest common divisor of two integers." << endl;
 
