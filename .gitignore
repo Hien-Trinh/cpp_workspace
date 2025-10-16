@@ -1,3 +1,8 @@
+# binary
+*
+!/**/
+!*.*
+
 # Prerequisites
 *.d
 
@@ -39,3 +44,6 @@
 
 # debug information files
 *.dwo
+
+# vscode config
+.vscode/
